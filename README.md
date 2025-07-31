@@ -9,3 +9,5 @@ Code for dataset evaluation: `CBTSQ-CR/experiment/Dataset_compare/score_dataset.
 Code for model evaluation: `CBTSQ-CR/experiment/model_compare/GPT_evaluator.py`
 
  Code for generating dialogue samples: `CBTSQ-CR/experiment/model_compare`
+
+ The model fine-tuning part refers to https://github.com/XplainMind/LLMindCraft.
